@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/movieapp/static/css/main.babbd67e.css",
+    "main.js": "/github.io/movieapp/static/js/main.411d1193.js",
+    "index.html": "/github.io/movieapp/index.html",
+    "static/media/search.svg": "/github.io/movieapp/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.babbd67e.css.map": "/github.io/movieapp/static/css/main.babbd67e.css.map",
+    "main.411d1193.js.map": "/github.io/movieapp/static/js/main.411d1193.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.babbd67e.css",
+    "static/js/main.411d1193.js"
+  ]
+}

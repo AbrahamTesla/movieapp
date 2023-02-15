@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import './App.css';
 import MovieCard from './MovieCard';
 import SearchIcon from './search.svg';
@@ -54,7 +54,6 @@ function App() {
                {movies.map((movie, index) => (
                   <MovieCard movie={movie} key={index} />
                ))}
-               {/* <MovieCard movie1={movie1} /> */}
             </div>
          ) : (
             <div className='empty'>
